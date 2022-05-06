@@ -1,0 +1,22 @@
+[
+{
+	firstname: "Max",
+	lastname: "Mustermann"
+},
+{
+	firstname: "John",
+	lastname: "Doe"
+},
+{
+	firstname: "Foo",
+	lastname: "Foolator"
+},
+{
+	firstname: "Pete",
+	lastname: "Peterson"
+},
+{
+	firstname: "Jane",
+	lastname: "Janetastic"
+}
+]
