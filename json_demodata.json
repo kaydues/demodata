@@ -1,22 +1,22 @@
 [	
 	{
-	"firstname": "Max",
-	"lastname": "Mustermann"
+	"Vorname": "Marc",
+	"Nachname": "Hornschuh"
 	},
 	{
-	"firstname": "John",
-	"lastname": "Doe"
+	"Vorname": "Kay",
+	"Nachname": "Dues"
 	},
 	{
-	"firstname": "Foo",
-	"lastname": "Foolator"
+	"Vorname": "Max",
+	"Nachname": "Mustermann"
 	},
 	{
-	"firstname": "Pete",
-	"lastname": "Peterson"
+	"Vorname": "Frau",
+	"Nachname": "Bestemarmelade"
 	},
 	{
-	"firstname": "Jane",
-	"lastname": "Janetastic"
+	"Vorname": "Herr",
+	"Nachname": "Apfelsaft"
 	}
 ]
